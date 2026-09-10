@@ -1,4 +1,6 @@
-import os
+import os, random
 
-words = open("words.txt", "r")
-print(words.read())
+words = open("words.txt", "r").read().splitlines()
+
+random.shuffle(words)
+print(" ".join(words))
