@@ -1,3 +1,8 @@
-banana
-bomb
-fun
+system
+down
+red
+hot
+chilli
+pepper
+remastered
+python
